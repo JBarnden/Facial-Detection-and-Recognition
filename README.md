@@ -1,2 +1,3 @@
-# Supervised-Face-Recognition
-A tutorial on supervised face recognition in python.  This python notebook acompanies the tutorial on my blog, for more in depth explanations of what's going on, [click here](https://jamqes.com/uni/?p=434) to check it out.
+# Facial Detection and Recognition in Python
+
+In this series of articles, I'll be giving an overview of what a facial recognition and classification pipeline might consist of, some different classification methods (both supervised and unsupervised), and how to implement them in Python.  This series of articles assumes you're somewhat familiar with python, and are somewhere between beginner and intermediate in the world of machine learning.
